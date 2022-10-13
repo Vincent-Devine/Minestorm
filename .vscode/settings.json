@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "my_math.h": "c",
+        "cstdlib": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "raylib.h": "c",
+        "stdbool.h": "c",
+        "math.h": "c",
+        "game.h": "c",
+        "object.h": "c",
+        "cstdint": "c",
+        "stdint.h": "c",
+        "display.h": "c",
+        "manager.h": "c",
+        "move.h": "c",
+        "gameinit.h": "c"
+    }
+}
